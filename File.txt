@@ -1,2 +1,8 @@
-Hi Hello
-Some one has changed this file --second time
+This is completly new file
+1
+2
+3
+4
+5
+6
+
